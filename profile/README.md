@@ -27,7 +27,7 @@ Whether you're a seasoned developer or just starting, we’d love for you to joi
 
 ## 📚 **Resources**
 We've made it easy for you to dive into our projects:
-- 📖 **Documentation**: Coming Soon!
+- 📖 **Documentation**: [lucentix.gitbook.com](https://lucentix.gitbook.com/lucentix)
 - 🔗 **Official Website**: [lucentix.github.io](https://lucentix.github.io)  
 - 🌟 **GitHub Projects**: Explore the heart of our work in our [repositories](https://github.com/orgs/Lucentix/repositories).
 
